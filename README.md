@@ -257,6 +257,13 @@ Open the app and verify whether the admin features are now visible or accessible
 ![modded-screen-shot](https://github.com/povzayd/Android-RE/blob/main/uploads/image6.jpg)
 
 ---
+## 📽️ Demo Video – InsecureBankV2 Pentesting Walkthrough
+
+[![Watch on YouTube](https://img.youtube.com/vi/YCdUEPnbeZM/0.jpg)](https://youtu.be/YCdUEPnbeZM)
+
+> 🛠️ Learn how to reverse engineer, modify, and repackage APKs to unlock hidden features in this hands-on Android pentesting session.
+
+---
 
 ## 🧠 Summary
 
